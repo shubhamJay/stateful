@@ -1,4 +1,4 @@
-package stateful
+package myStateful
 
 trait Action {}
 
